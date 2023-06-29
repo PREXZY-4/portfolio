@@ -388,6 +388,10 @@ footer {
     color: black;
     line-height: 30px;
   }
+
+  section iframe {
+    padding: 20px 0px;
+  }
 }
 
 @media screen and (max-width: 345px) {
